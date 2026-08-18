@@ -1,2 +1,2 @@
 # list_HW
-homework on lists
+homework on lists day 5
